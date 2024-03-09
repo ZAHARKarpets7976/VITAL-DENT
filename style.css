@@ -1,0 +1,110 @@
+body {
+    font-family: sans-serif;
+    background-color:rgb(85, 44, 44);
+ 
+}
+
+header {
+    justify-content: space-between;
+    margin-bottom: 20px;
+    background-color:white;
+
+}
+
+.button {
+    background-color: #36bbce;
+    color: rgb(35, 15, 15);
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+nav {
+     border-top: 5px solid rgb(202, 193, 193);
+  
+    border-bottom: 5px solid rgb(202, 193, 193);
+    padding: 5px;
+    justify-content: space-between;
+    color: white;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
+    color: white;
+}
+
+p {
+    font-size: 24px;
+    color: white;
+}
+
+.info {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+   
+}
+
+article {
+    background-color: white;
+    padding:15px ;
+    width: 400px;
+    margin: 20px;
+
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: grey;
+    color: rgb(153, 88, 88);
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    margin: 10px;
+}
+
+footer {
+    background-color: white;
+    padding:2px ;
+    color: rgb(188, 130, 130);
+    height: 150px;
+}
+
+footer a {
+    margin-right:  5px;
+    float: left;
+}
+
+footer p {
+    font-size: 24px;
+    color:rgb(0, 0, 0);
+}
+header img{
+    width: 200px;
+    height: 120px;
+}
+h2{
+  text-align: center;  
+}
+h4{
+    color: white;
+    font-size: 20px;
+}
+td{
+    color: white;
+}
+h1{
+    border-bottom:2px solid white;
+    border-top: 2px solid white;
+}
